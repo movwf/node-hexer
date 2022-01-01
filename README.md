@@ -1,7 +1,6 @@
-# Hex Parser
-
-![Hex Parser](/img/hex-parser.png)
+<h1 align="center">Hex Parser</h1>
 
 > This is experimental script for constructing real files with only HEX strings.
+> It has interesting use cases 😈
 
-> It has interesting use cases 😈 :smiling_imp:
+<p align="center">![Hex Parser](/img/hex-parser.png)</p>
