@@ -3,4 +3,4 @@
 > This is experimental script for constructing real files with only HEX strings.
 > It has interesting use cases 😈
 
-<p align="center">![Hex Parser](/img/hex-parser.png)</p>
+<img src="/img/hex-parser.png" align="center" alt="Hex Parser" />
